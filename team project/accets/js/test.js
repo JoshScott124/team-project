@@ -39,7 +39,7 @@ if (currentMonth >= 7) {
 
 if (currentMonth >= 7) {
   Move3.innerHTML = `
-  <img src="accets/img/jedi.jpg" alt="">
+  <img src="accets/img/jedi.jpeg" alt="">
   <div class="overlay">
     <a href="https://www.youtube.com/watch?v=Q0CbN8sfihY" target="_blank">Movie Trailer</a>
   </div>
